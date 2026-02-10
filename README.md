@@ -6,7 +6,10 @@ problems in quantitative finance, risk modelling, and data-driven analysis.
 
 ## Projects
 
-- (projects will be added here)
+- **FX Private Credit Hedging**  
+  Simulation-based analysis of FX hedging strategies for private credit investments, including cashflow and NPV impact across strategies.  
+  👉 https://github.com/vascorsilva/fx-private-credit-hedging
+
 
 ## Focus areas
 
