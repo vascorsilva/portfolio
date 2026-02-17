@@ -6,6 +6,10 @@ problems in quantitative finance, risk modelling, and data-driven analysis.
 
 ## Projects
 
+- **FX Options Portfolio Risk Engine**
+Production-oriented pricing and portfolio risk aggregation engine for FX options (PV, Delta, Vega) using the Garman–Kohlhagen framework, with validated inputs.
+👉 https://github.com/vascorsilva/fx-options-portfolio-risk-aggregator
+
 - **FX Private Credit Hedging**  
   Simulation-based analysis of FX hedging strategies for private credit investments, assessing cashflow and NPV impact across different hedge structures.  
   👉 https://github.com/vascorsilva/fx-private-credit-hedging
@@ -29,10 +33,3 @@ problems in quantitative finance, risk modelling, and data-driven analysis.
 - Monte Carlo simulation
 - Time series analysis and machine learning
 
-## Tooling
-
-- Python
-- NumPy, pandas, SciPy
-- Jupyter Notebook
-- matplotlib / seaborn
-- Git & GitHub
